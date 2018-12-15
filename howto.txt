@@ -1,0 +1,1 @@
+procdump -ma -a -r <pid> .\<appname>-<timestamp>.dmp

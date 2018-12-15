@@ -1,0 +1,336 @@
+Thread: 1
+InlinedCallFrame
+DomainNeutralILStubClass.IL_STUB_PInvoke(Microsoft.Win32.SafeHandles.SafeFileHandle, Byte*, Int32, Int32 ByRef, IntPtr)
+InlinedCallFrame
+System.IO.__ConsoleStream.ReadFileNative(Microsoft.Win32.SafeHandles.SafeFileHandle, Byte[], Int32, Int32, Boolean, Boolean, Int32 ByRef)
+System.IO.__ConsoleStream.Read(Byte[], Int32, Int32)
+System.IO.StreamReader.ReadBuffer()
+System.IO.StreamReader.ReadLine()
+System.IO.TextReader+SyncTextReader.ReadLine()
+System.Console.ReadLine()
+Inv.Console.ReadLine()
+Inv.SystemServiceApplication.Run(System.String[])
+Kestral.Foundry.Server.HostControl.Run(System.String[])
+Kestral.Karisma.Server.Program+<>c__DisplayClass0_0.<Main>b__0()
+Kestral.Foundry.Shell.Program.Launch(System.Action)
+Kestral.Foundry.Server.ShellControl.set_Launch(System.Action)
+Kestral.Karisma.Server.Program.Main(System.String[])
+GCFrame
+Thread: 2
+DebuggerU2MCatchHandlerFrame
+Thread: 3
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 4
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 5
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 6
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 12
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 13
+Thread: 14
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Kestral.Sql.Connection.MutexControl+<>c__DisplayClass25_1.<Start>b__0()
+Inv.ThreadContext.InvokeMethod()
+System.Threading.ThreadHelper.ThreadStart_Context(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+System.Threading.ThreadHelper.ThreadStart()
+GCFrame
+DebuggerU2MCatchHandlerFrame
+Thread: 15
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 16
+InlinedCallFrame
+DomainBoundILStubClass.IL_STUB_PInvoke(SNI_ConnWrapper*, SNI_Packet**, Int32)
+InlinedCallFrame
+SNINativeMethodWrapper.SNIReadSyncOverAsync(System.Runtime.InteropServices.SafeHandle, IntPtr ByRef, Int32)
+System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte ByRef)
+System.Data.SqlClient.TdsParser.TryRun(System.Data.SqlClient.RunBehavior, System.Data.SqlClient.SqlCommand, System.Data.SqlClient.SqlDataReader, System.Data.SqlClient.BulkCopySimpleResultSet, System.Data.SqlClient.TdsParserStateObject, Boolean ByRef)
+System.Data.SqlClient.SqlCommand.FinishExecuteReader(System.Data.SqlClient.SqlDataReader, System.Data.SqlClient.RunBehavior, System.String, Boolean, Boolean, Boolean)
+System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(System.Data.CommandBehavior, System.Data.SqlClient.RunBehavior, Boolean, Boolean, Int32, System.Threading.Tasks.Task ByRef, Boolean, Boolean, System.Data.SqlClient.SqlDataReader, Boolean)
+System.Data.SqlClient.SqlCommand.RunExecuteReader(System.Data.CommandBehavior, System.Data.SqlClient.RunBehavior, Boolean, System.String, System.Threading.Tasks.TaskCompletionSource`1<System.Object>, Int32, System.Threading.Tasks.Task ByRef, Boolean ByRef, Boolean, Boolean)
+System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(System.Threading.Tasks.TaskCompletionSource`1<System.Object>, System.String, Boolean, Int32, Boolean ByRef, Boolean, Boolean)
+System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+Kestral.Sql.CommandControl.<ExecuteNonQuery>b__15_0()
+Kestral.Sql.CommandControl.Execute[[System.Int32, mscorlib]](System.Func`1<Int32>)
+Kestral.Sql.CommandControl.ExecuteNonQuery()
+Kestral.Storage.Server.VigilControl.<Load>b__8_0()
+Inv.ThreadContext.InvokeMethod()
+System.Threading.ThreadHelper.ThreadStart_Context(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+System.Threading.ThreadHelper.ThreadStart()
+GCFrame
+DebuggerU2MCatchHandlerFrame
+Thread: 17
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 18
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 19
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(System.TimeSpan, Boolean)
+System.Threading.WaitHandle.WaitOne(System.TimeSpan)
+Inv.Signal.WaitOne(System.TimeSpan)
+Inv.WeakReferenceGovernor.CompactionMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 20
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.InternalWaitOne(System.Runtime.InteropServices.SafeHandle, Int64, Boolean, Boolean)
+System.Threading.WaitHandle.WaitOne(Int32, Boolean)
+System.Threading.WaitHandle.WaitOne()
+Inv.Signal.WaitOne()
+Inv.TaskGate`1[[System.__Canon, mscorlib]].ProcessMethod()
+Inv.TaskActivity.Execute()
+System.Threading.Tasks.Task.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Threading.Tasks.Task.ExecutionContextCallback(System.Object)
+System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+System.Threading.Tasks.Task.ExecuteWithThreadLocal(System.Threading.Tasks.Task ByRef)
+System.Threading.Tasks.Task.ExecuteEntry(Boolean)
+System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue.Dispatch()
+System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+DebuggerU2MCatchHandlerFrame
+Thread: 25
+Thread: 28
+Thread: 7
+Thread: 35
+HelperMethodFrame_1OBJ
+System.Threading.WaitHandle.WaitAny(System.Threading.WaitHandle[], Int32, Boolean)
+System.Runtime.IOThreadTimer+TimerManager.OnWaitCallback(System.Object)
+System.Runtime.IOThreadScheduler+ScheduledOverlapped.IOCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+System.Runtime.Fx+IOCompletionThunk.UnhandledExceptionFrame(UInt32, UInt32, System.Threading.NativeOverlapped*)
+System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+GCFrame
+DebuggerU2MCatchHandlerFrame
+Thread: 34
+Inv.ThreadContext: 65477448
+	 <Group>k__BackingField	63511588
+	 <Handle>k__BackingField	65477700
+	 <Method>k__BackingField	65477164
+	 <Name>k__BackingField	SqlMutexActive
+	 <ApartmentState>k__BackingField	2
+	 <IsBackground>k__BackingField	False
+Inv.ThreadContext: 65936008
+	 <Group>k__BackingField	63511588
+	 <Handle>k__BackingField	65936100
+	 <Method>k__BackingField	65935976
+	 <Name>k__BackingField	StorageVigil
+	 <ApartmentState>k__BackingField	2
+	 <IsBackground>k__BackingField	False
+Inv.TaskActivity: 62810352
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Reporting-Incoming
+	 <Base>k__BackingField	62810404
+	 Method	62810320
+Inv.TaskActivity: 62810988
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Reporting-Outgoing
+	 <Base>k__BackingField	62811040
+	 Method	62810956
+Inv.TaskActivity: 62812652
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Registered-Incoming
+	 <Base>k__BackingField	62812704
+	 Method	62812620
+Inv.TaskActivity: 62813308
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Registered-Outgoing
+	 <Base>k__BackingField	62813360
+	 Method	62813276
+Inv.TaskActivity: 62814424
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Received-Incoming
+	 <Base>k__BackingField	62814476
+	 Method	62814392
+Inv.TaskActivity: 62815060
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Received-Outgoing
+	 <Base>k__BackingField	62815112
+	 Method	62815028
+Inv.TaskActivity: 62816344
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Scheduled-Incoming
+	 <Base>k__BackingField	62816396
+	 Method	62816312
+Inv.TaskActivity: 62817000
+	 <Name>k__BackingField	InvTaskGate-WorkListServerCache.Request.Scheduled-Outgoing
+	 <Base>k__BackingField	62817052
+	 Method	62816968
+Inv.TaskActivity: 63512120
+	 <Name>k__BackingField	Inv.WeakReferenceGovernor-Compaction
+	 <Base>k__BackingField	63512172
+	 Method	63512088
+Inv.TaskActivity: 63668444
+	 <Name>k__BackingField	InvTaskGate-Instrument.Trace.LogWriteTask
+	 <Base>k__BackingField	63668496
+	 Method	63668412
+Inv.TaskActivity: 66008436
+	 <Name>k__BackingField	StoragePrimeSnapshot
+	 <Base>k__BackingField	66008488
+	 Method	66008404
+Inv.TaskActivity: 66042312
+	 <Name>k__BackingField	LocaleManageLibrary.Load
+	 <Base>k__BackingField	66042364
+	 Method	66042280
+Inv.TaskActivity: 302898820
+	 <Name>k__BackingField	InteractLockReservation
+	 <Base>k__BackingField	302898840
+	 Method	302898788
+Inv.TaskActivity: 302900688
+	 <Name>k__BackingField	ArchiveLoad
+	 <Base>k__BackingField	302900708
+	 Method	302900656
