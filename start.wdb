@@ -1,0 +1,5 @@
+.effmach x86
+.load soswow64
+.loadby sos clr
+!eeversion
+!eeversion

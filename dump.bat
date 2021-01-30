@@ -15,9 +15,11 @@ set log=%base%.log
 
 %cd%\procdump.exe -accepteula -ma -a -r %1 -w %dmp%
 
-%cd%\vmmap.exe -accepteula -p %1 %mmp%
+rem -- VMMap ---
+rem %cd%\vmmap.exe -accepteula -p %1 %mmp%
 
-%cd%\PerfView.exe -accepteula HeapSnapshotFromProcessDump %dmp% %gcdmp% -logfile:%log%
+rem -- GC Dump ---
+rem %cd%\PerfView.exe -accepteula HeapSnapshotFromProcessDump %dmp% %gcdmp% -logfile:%log%
 
 rem -- zip the report files
 rem zip.exe -1j %zip% %gcdmp% %mmp% %log%
